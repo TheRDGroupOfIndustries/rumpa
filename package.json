@@ -1,0 +1,11 @@
+{
+  "name": "rumpa",
+  "version": "1.0.0",
+  "description": "Coming Soon Page for rumpa",
+  "repository": "https://github.com/TheRDGroupOfIndustries/rumpa.git",
+  "author": "Ashri024 <ashriarya.024@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
