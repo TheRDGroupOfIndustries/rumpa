@@ -4,6 +4,7 @@
   "description": "Coming Soon Page for rumpa",
   "repository": "https://github.com/TheRDGroupOfIndustries/rumpa.git",
   "author": "Ashri024 <ashriarya.024@gmail.com>",
+  "editor": "Dev Adarsh pandit.",
   "license": "MIT",
   "devDependencies": {
     "tailwindcss": "^3.4.14"
